@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SI-PEKERBA DISKOMINFO</title>
+    <title>SI-BARANG SIDOARJO</title>
     <!-- icon diskominfo -->
     <link rel="icon" href="assets/dist/img/diskominfo-logo.png">
     <!-- Bootstrap CSS -->
@@ -19,7 +19,7 @@
   <nav class="navbar navbar-expand-lg navbar-light">
     <div class="container">
       <img class="logo" src="assets/dist/img/diskominfo-logo.png">
-      <a class="navbar-brand" href="index.php">SI-PEKERBA</a>
+      <a class="navbar-brand" href="index.php">SI-BARANG</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
