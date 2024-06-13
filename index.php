@@ -2,7 +2,7 @@
 include 'templates/header.php';
 
 ?>
-  <h1 class="display-5">Pengaduan Kehilangan Barang?</h1>
+  <h1 class="display-5">Pengaduan Kerusakan Barang?</h1>
   <p class="lead">Jangan ambil pusing! Sampaikan kepada kami.</p>
   <div class="jumbotron-search">
     <form action="search.php" method="POST">
@@ -12,6 +12,8 @@ include 'templates/header.php';
     </form>
     <p class="lead mt-2">atau ajukan pengaduan Anda</p>
     <a href="form-pengaduan.php" class="btn btn-primary sub-button"><span class="fas fa-chevron-right mr-2"></span>Disini</a>
+    <br><center><p>Repost by <a href='https://valcoding.com/' title='valcoding.com' target='_blank'>valcoding.com</a></p></center>
+
   </div>
 <?php
 include 'templates/footer.php';

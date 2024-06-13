@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SI-BARANG SIDOARJO</title>
+    <title>SI-BARANG KOMINFO</title>
     <!-- icon diskominfo -->
     <link rel="icon" href="assets/dist/img/diskominfo-logo.png">
     <!-- Bootstrap CSS -->
@@ -42,4 +42,3 @@
   <!-- header -->
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
-      <img src="assets/img/homepage.svg">

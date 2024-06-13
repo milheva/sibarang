@@ -15,7 +15,7 @@ if (isset($_POST['register'])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sign Up | SI-BARANG SIDOARJO</title>
+    <title>Sign Up | SI-BARANG KOMINFO</title>
     <!-- icon diskominfo -->
     <link rel="icon" href="../assets/dist/img/diskominfo-logo.png">
     <!-- Bootstrap CSS -->
@@ -35,7 +35,7 @@ if (isset($_POST['register'])) {
             <div class="col-md-6" style="margin-top: -30px;">
                 <a class="btn logo" href="../index.php">SI-BARANG</a>
                 <img src="css/diskominfo-logo.png" width="40" height="40">
-                <p class="lead">Sistem Informasi Kehilangan Barang Sidoarjo</p>
+                <p class="lead">Dinas Komunikasi dan Informasi Surabaya</p>
                 <h4 class="signin-text mb-3">Sign Up</h4>
                 <form action="" method="POST">
                     <div class="form-group">

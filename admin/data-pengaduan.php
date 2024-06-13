@@ -9,7 +9,7 @@ include "templates/sidebar-pengaduan.php"
       <div class="container-fluid">
         <div class="row mb-2">
           <div class="col-sm-6">
-            <h1>Data Pengaduan Kehilangan Barang</h1>
+            <h1>Data Pengaduan Kerusakan Barang</h1>
           </div>
           <div class="col-sm-6">
             <ol class="breadcrumb float-sm-right">
@@ -42,7 +42,7 @@ include "templates/sidebar-pengaduan.php"
             <table class="table table-hover" id="table" width="100%">
               <thead align="center">
                 <th>No.</th>
-                <th>Nama Pelapor</th>
+                <th>Nama Pegawai</th>
                 <th>Nama Barang</th>
                 <th>Keterangan</th>
                 <th>Tgl. Lapor</th>
@@ -69,7 +69,7 @@ include "templates/sidebar-pengaduan.php"
               </tbody>
               <tfoot align="center">
                 <th>No.</th>
-                <th>Nama Pelapor</th>
+                <th>Nama Pegawai</th>
                 <th>Nama Barang</th>
                 <th>Keterangan</th>
                 <th>Tgl. Lapor</th>
@@ -99,7 +99,7 @@ include "templates/sidebar-pengaduan.php"
             <table class="table-hover" id="table2" width="100%">
               <thead align="center">
                 <th>No.</th>
-                <th>Nama Pelapor</th>
+                <th>Nama Pegawai</th>
                 <th>Nama Barang</th>
                 <th>Keterangan</th>
                 <th>Tgl. Lapor</th>
@@ -126,7 +126,7 @@ include "templates/sidebar-pengaduan.php"
               </tbody>
               <tfoot align="center">
                 <th>No.</th>
-                <th>Nama Pelapor</th>
+                <th>Nama Pegawai</th>
                 <th>Nama Barang</th>
                 <th>Keterangan</th>
                 <th>Tgl. Lapor</th>
@@ -156,7 +156,7 @@ include "templates/sidebar-pengaduan.php"
             <table class="table-hover" id="table3" width="100%">
               <thead align="center">
               <th>No.</th>
-                <th>Nama Pelapor</th>
+                <th>Nama Pegawai</th>
                 <th>Nama Barang</th>
                 <th>Keterangan</th>
                 <th>Tgl. Lapor</th>
@@ -183,7 +183,7 @@ include "templates/sidebar-pengaduan.php"
               </tbody>
               <tfoot align="center">
               <th>No.</th>
-                <th>Nama Pelapor</th>
+                <th>Nama Pegawai</th>
                 <th>Nama Barang</th>
                 <th>Keterangan</th>
                 <th>Tgl. Lapor</th>

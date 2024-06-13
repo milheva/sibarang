@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SI-BARANG SIDOARJO</title>
+    <title>SI-BARANG KOMINFO</title>
     <!-- icon diskominfo -->
     <link rel="icon" href="assets/dist/img/diskominfo-logo.png">
     <!-- Bootstrap CSS -->
@@ -32,7 +32,7 @@
             <a class="nav-link" href="form-pengaduan.php">Form Pengajuan</a>
           </li>
           <li class="nav-item">
-            <a class="btn btn-primary login-button" href="auth/login.php">Log in (Admin)</a>
+            <a class="btn btn-primary login-button" href="auth/login.php">Log in</a>
           </li>
         </ul>
       </div>
