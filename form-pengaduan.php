@@ -59,7 +59,6 @@ $kodeBarang = $huruf . sprintf("%04s", $urutan);
           <button class="btn btn-outline-danger mt-3" type="reset" name="reset" style="width: 130px;"><span class="fas fa-undo mr-2"></span>Reset Form</button>
         </div>
       </form>
-      <br><center><p>Repost by <a href='https://valcoding.com/' title='valcoding.com' target='_blank'>valcoding.com</a></p></center>
 
 <?php
 include 'templates/footer.php';

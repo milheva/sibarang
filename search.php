@@ -15,8 +15,8 @@ require 'function.php';
           <p>Nomor Pengaduan : <?= $d['id']; ?></p>
           <p>Tanggal Pengaduan : <?= $d['tgl_lapor']; ?></p>
           <p>Nama Pelapor : <?= $d['n_pelapor']; ?></p>
-          <p>Jabatan : <?= $d['j_pelapor']; ?></p>
-          <p>Departemen : <?= $d['d_pelapor']; ?></p>
+          <p>Tanggal Kehilangan : <?= $d['tgl_kehilangan']; ?></p>
+          <p>Lokasi Kehilangan : <?= $d['lok_kehilangan']; ?></p>
           <p>Nama Barang : <?= $d['n_barang']; ?></p>
           <p>Keterangan : <?= $d['ket']; ?></p>
           <p>Status : <?= $d['status']; ?></p>
