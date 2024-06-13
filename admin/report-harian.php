@@ -26,7 +26,7 @@ include "templates/sidebar-report.php";
 
     <div class="card">
         <div class="card-header">
-          <h3 class="card-title"><i class="fas fa-book mr-3"></i>Data Pengaduan Kerusakan Barang</h3>
+          <h3 class="card-title"><i class="fas fa-book mr-3"></i>Data Pengaduan Kehilangan Barang</h3>
           <div class="card-tools">
             <button type="button" class="btn btn-tool" data-card-widget="collapse" title="Collapse">
               <i class="fas fa-minus"></i>
@@ -41,9 +41,9 @@ include "templates/sidebar-report.php";
             <table class="table table-hover" id="table-report" width="100%">
               <thead align="center">
                 <th>No.</th>
-                <th>Nama Pegawai</th>
-                <th>Jabatan/Pangkat</th>
-                <th>Departemen</th>
+                <th>Nama Pelapor</th>
+                <th>Tanggal Kehilangan</th>
+                <th>Lokasi Kehilangan</th>
                 <th>Nama Barang</th>
                 <th>Keterangan</th>
                 <th>Status</th>
@@ -66,8 +66,8 @@ include "templates/sidebar-report.php";
                 <tr>
                   <td><?= $d['id']; ?></td>
                   <td><?= $d['n_pelapor']; ?></td>
-                  <td><?= $d['j_pelapor']; ?></td>
-                  <td><?= $d['d_pelapor']; ?></td>
+                  <td><?= $d['tgl_kehilangan']; ?></td>
+                  <td><?= $d['lok_kehilangan']; ?></td>
                   <td><?= $d['n_barang']; ?></td>
                   <td><?= $d['ket']; ?></td>
                   <td><?= $d['status']; ?></td>
@@ -80,9 +80,9 @@ include "templates/sidebar-report.php";
               </tbody>
               <tfoot align="center">
                 <th>No.</th>
-                <th>Nama Pegawai</th>
-                <th>Jabatan</th>
-                <th>Departemen</th>
+                <th>Nama Pelapor</th>
+                <th>Tanggal Kehilangan</th>
+                <th>Lokasi Kehilangan</th>
                 <th>Nama Barang</th>
                 <th>Keterangan</th>
                 <th>Status</th>

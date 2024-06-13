@@ -57,13 +57,13 @@ foreach ($data as $d) :
                   <input type="text" name="np" id="np" class="form-control mb-3 bg-transparent" style="cursor: default;" value="<?= $d['n_pelapor']; ?>" readonly>
                 </div>
                 <div class="col-md-4">
-                  <label for="jp">Jabatan :</label>
+                  <label for="jp">Tanggal Kehilangan :</label>
                   <input type="text" name="jp" id="jp" class="form-control mb-3 bg-transparent" style="cursor: default;" value="<?= $d['j_pelapor']; ?>" readonly>
                 </div>
               </div>
               <div class="row">
                 <div class="col-md-4">
-                  <label for="dp">Departemen :</label>
+                  <label for="dp">Lokasi Kehilangan :</label>
                   <input type="text" name="dp" id="dp" class="form-control mb-3 bg-transparent" style="cursor: default;" value="<?= $d['d_pelapor']; ?>" readonly>
                 </div>
                 <div class="col-md-4">

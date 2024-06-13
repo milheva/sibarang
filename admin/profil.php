@@ -40,7 +40,7 @@ if (isset($_POST['submit'])) {
       <div class="card">
         <div class="card-body">
           <div class="form-group row">
-            <label for="id" class="col-sm-2 col-form-label">Nomor Induk Pegawai</label>
+            <label for="id" class="col-sm-2 col-form-label">Nomor User</label>
             <div class="col-sm-10">
               <input type="text" readonly class="form-control-plaintext" id="id" value=":  <?= $data['user_id'];?>">
             </div>
