@@ -12,7 +12,6 @@ include 'templates/header.php';
     </form>
     <p class="lead mt-2">atau ajukan pengaduan Anda</p>
     <a href="form-pengaduan.php" class="btn btn-primary sub-button"><span class="fas fa-chevron-right mr-2"></span>Disini</a>
-    <br><center><p>Repost by <a href='https://valcoding.com/' title='valcoding.com' target='_blank'>valcoding.com</a></p></center>
 
   </div>
 <?php

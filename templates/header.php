@@ -32,7 +32,7 @@
             <a class="nav-link" href="form-pengaduan.php">Form Pengajuan</a>
           </li>
           <li class="nav-item">
-            <a class="btn btn-primary login-button" href="auth/login.php">Log in</a>
+            <a class="btn btn-primary login-button" href="auth/login.php">Log in (admin)</a>
           </li>
         </ul>
       </div>
